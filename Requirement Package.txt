@@ -1,0 +1,5 @@
+The code is written in a Jupyter Notebook with a Python 3.12.5 kernel, and in addition it requires the following packages:
+
+pandas == 2.2.3
+seabon == 0.13.2
+matplotlib == 3.9.2
