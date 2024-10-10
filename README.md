@@ -16,6 +16,8 @@ Data was pulled from a dataset on Kaggle
 * Before altering the data type of Request timestamp, I first cleaned and modified it using a lambda function.
 * I then created three new columns — Day, Hour, and Time Slot — based on the transformed Request timestamp to better analyze time-based trends.
 
+  Refer [here](Data-Wrangling_ss) for data wrangling process
+
 # Data Analysing and Visualizing:
 ## Percentage of the Order Status
 
